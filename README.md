@@ -11,8 +11,8 @@ Welcome to my GitHub! I'm a passionate Full-Stack developer with a love for crea
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,react,typescript,nextjs,supabase&theme=light" />
-    <img src="https://skillicons.dev/icons?i=webpack,npm,express,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,react,typescript,tailwind,nextjs,pinia,redux,mongodb,supabase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=webpack,npm,express,electron,nodejs&theme=light" />
   </a>
 </p>
 
