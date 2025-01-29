@@ -1,6 +1,6 @@
 # Hello, I'm Bryan Kevin 👋
 
-Welcome to my GitHub! I'm a passionate front-end developer with a love for creating sleek, user-friendly web applications. I specialize in front-end technologies, particularly those related to React, Vue, and modern JavaScript frameworks. 🚀
+Welcome to my GitHub! I'm a passionate Full-Stack developer with a love for creating sleek, user-friendly web applications. I specialize in front-end technologies, particularly those related to React, Vue, and modern JavaScript frameworks. 🚀
 
 ## 🌱 Currently Learning:
 - Exploring more advanced **TypeScript** patterns
