@@ -1,25 +1,63 @@
-# Hello, I'm Bryan Kevin 👋
-
-Welcome to my GitHub! I'm a passionate Full-Stack developer with a love for creating sleek, user-friendly web applications. I specialize in front-end technologies, particularly those related to React, Vue, and modern JavaScript frameworks. 🚀
-
-## 🌱 Currently Learning:
-- Exploring more advanced **TypeScript** patterns
-- Diving deeper into **Next.js** and **Supabase** for full-stack development
-- Experimenting with **GraphQL** for efficient data fetching
-
-## 🛠️ Languages and Tools:
+<h1 align="center">Hi there, I'm Bryan-Kevin 👋</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,react,typescript,tailwind,nextjs,pinia,redux,mongodb,supabase&theme=light" />
-    <img src="https://skillicons.dev/icons?i=webpack,npm,express,electron,nodejs&theme=light" />
-  </a>
+  🧑‍💻 Full-stack Developer | 🎨 Aspiring Technical Artist | 🌍 Explorer of Many Worlds
 </p>
 
-### A little more about me:
-- 🖥️ I build dynamic and responsive front-end UIs.
-- 🎮 I also have experience in game development with **Lua** and **Roblox Studio**.
-- 💡 I'm passionate about clean, maintainable code and always learning new best practices.
-- 🌍 I aim to contribute to open-source projects and improve my skills through real-world collaborations.
+---
 
-Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about tech! 😊
+### 👨‍💻 About Me
+
+Hi, I’m a **freelance full-stack developer** based in **China**, with a passion for creating, designing, and exploring new technology frontiers.
+
+Currently diving deep into **technical art development**, while actively using my full-stack skills to build meaningful products and experiences.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+- JavaScript / TypeScript / Python / Kotlin
+- React / Vue / Next.js / Electron / Node.js / Express
+- Django / MySQL / MongoDB / PostgreSQL
+
+**Tools & Platforms**
+- Docker / Git / REST API / WebSocket
+- Blender / Unity / Unreal Engine / Godot (learning)
+- Solidity / Web3.0 (exploring)
+
+---
+
+### 🎯 What I'm Learning
+
+- C++ / C# / Shader / OpenGL  
+- Unity, Unreal Engine, Godot, Blender  
+- Web3 Smart Contracts with Solidity
+
+---
+
+### 🎨 Interests
+
+- UI/UX Design
+- Technical Art & Shader Programming  
+- Quantitative Trading & AI  
+- Photography, Video Editing, Digital Art
+
+---
+
+### 🌱 Personal Style
+
+I like to **tinker**, explore across disciplines, and stay curious.  
+You could say I’m a **"full-spectrum builder"** — coding, designing, or modeling 3D, I’m always crafting something.
+
+---
+
+### 📫 Get in Touch
+
+Feel free to connect with me if you:
+- Share similar interests
+- Want to collaborate on something exciting
+- Just want to say hi 😄
+---
+
+_Thanks for visiting!_ ✨
